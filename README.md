@@ -1,18 +1,7 @@
-## Getting Started
+## Alura Stickres
+Primeira Imersão Java da Alura!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Nesta primeira aula, contruimos com o auxilio dos instrutores uma aplicação do zero para consumir a API de filmes e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação.
+Na segunda aula criamos um gerador de figurinhas explorando outras bibliotecas nativas do Java.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
